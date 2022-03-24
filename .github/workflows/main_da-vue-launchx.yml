@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'da-vue-launchx'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0AFC3DBCFFFB45349CA4B1F1F93D7F99 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9A50633232F84055AB826DACAABCEB1C }}
           package: .
